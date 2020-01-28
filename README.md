@@ -73,6 +73,7 @@ cd C:\TensorflowObjDet\models\research\object-detection\
 13. Compile the Protobuf libraries by executing following command:
 ```
 protoc protos/*.proto --python_out=. aqui precisa rodar outro script no win 
+roda o run_protoc.txt por batch na pasta research
 ```
 <br/><br/>
 14. Set enviroment path by executing following command:
