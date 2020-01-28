@@ -28,7 +28,7 @@ Some real word applications of object detection include : self-driving car, trac
 ```
 protobuf
 jupyter
-opencv-python
+opencv-python troca por opencv
 matplotlib
 pillow
 pandas
@@ -72,7 +72,7 @@ cd C:\TensorflowObjDet\models\research\object-detection\
 <br/><br/>
 13. Compile the Protobuf libraries by executing following command:
 ```
-protoc protos/*.proto --python_out=.
+protoc protos/*.proto --python_out=. aqui precisa rodar outro script no win 
 ```
 <br/><br/>
 14. Set enviroment path by executing following command:
